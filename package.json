@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start":"node index.js",
+    "start": "node index.js",
     "dev": "nodemon index.js"
   },
   "repository": {
@@ -20,6 +20,7 @@
   "homepage": "https://github.com/JosephMen/LenguajesPR4#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "mongoose": "^5.11.14",
     "socket.io": "^3.1.0"
   },
   "devDependencies": {
